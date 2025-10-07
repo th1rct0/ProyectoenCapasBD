@@ -1,0 +1,7 @@
+Para agregarlo ve tu Base de Datos.
+  Clic en programacion.
+    clic derecho en procedimientos almacenados del sistema.
+      Crear procedimiento almacenado. 
+    Copias y pegas el codigo SQL.
+
+Este procedimiento recibe el IDcustomer y regresa el ID customer que se pide.
